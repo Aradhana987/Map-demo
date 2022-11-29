@@ -1,0 +1,7 @@
+const Origins=['Shyamal Cross Road, Shyamal, Ahmedabad, Gujarat, India','Shivranjani Cross Road, Shyamal, Ahmedabad, Gujarat, India',
+'Itc Narmada, I I M, Vastrapur, Ahmedabad, Gujarat, India',
+'Mansi Cross Road, Judges Bunglow Road, Satellite, Ahmedabad, Gujarat, India',
+'Nehru Park Circle, Mahavir Nagar society, Vastrapur, Ahmedabad, Gujarat, India',
+'Alpha One Mall, Sarkari Vasahat Road, Vastrapur, Ahmedabad, Gujarat, India'
+]
+export default Origins
